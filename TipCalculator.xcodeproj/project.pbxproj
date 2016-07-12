@@ -101,14 +101,9 @@
 		AB72AA991D300C2B00160379 /* TipCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				AB72AA9D1D300C2B00160379 /* AppDelegate.h */,
-				AB72AA9E1D300C2B00160379 /* AppDelegate.m */,
 				AB72AAA01D300C2B00160379 /* ViewController.h */,
 				AB72AAA11D300C2B00160379 /* ViewController.m */,
 				AB72AAA31D300C2B00160379 /* Main.storyboard */,
-				AB72AAA61D300C2B00160379 /* Assets.xcassets */,
-				AB72AAA81D300C2B00160379 /* LaunchScreen.storyboard */,
-				AB72AAAB1D300C2B00160379 /* Info.plist */,
 				AB72AA9A1D300C2B00160379 /* Supporting Files */,
 			);
 			path = TipCalculator;
@@ -117,6 +112,11 @@
 		AB72AA9A1D300C2B00160379 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AB72AAA81D300C2B00160379 /* LaunchScreen.storyboard */,
+				AB72AAAB1D300C2B00160379 /* Info.plist */,
+				AB72AA9D1D300C2B00160379 /* AppDelegate.h */,
+				AB72AAA61D300C2B00160379 /* Assets.xcassets */,
+				AB72AA9E1D300C2B00160379 /* AppDelegate.m */,
 				AB72AA9B1D300C2B00160379 /* main.m */,
 			);
 			name = "Supporting Files";
